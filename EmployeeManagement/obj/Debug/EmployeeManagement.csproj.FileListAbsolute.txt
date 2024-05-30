@@ -1,0 +1,15 @@
+C:\Users\barba\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+C:\Users\barba\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\Users\barba\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\Users\barba\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\barba\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Employees.resources
+C:\Users\barba\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Login.resources
+C:\Users\barba\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Properties.Resources.resources
+C:\Users\barba\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.GenerateResource.cache
+C:\Users\barba\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\barba\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+C:\Users\barba\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
+C:\Users\barba\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\Guna.UI2.dll
+C:\Users\barba\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\Employee.61744648.Up2Date
+C:\Users\barba\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Departments.resources
+C:\Users\barba\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Salaries.resources
